@@ -1,0 +1,30 @@
+Debain 10*
+$sudo
+$sudo -i
+#exit 
+Debian *
+$sudo apt install gimp inkscape
+
+
+Basics:
+pwd
+clear
+
+
+ls -l
+ls -a
+cd ~/
+cd /home/pi/Desktop
+cd /
+
+touch filename.txt
+nano filename.txt
+
+
+Networking:
+
+ip a
+ifconfig
+traceroute 8.8.8.8
+ping 8.8.8.8
+ping 8.8.8.8 -c3
